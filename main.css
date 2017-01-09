@@ -1,0 +1,19 @@
+*{font-family: 'Open Sans', sans-serif; margin: 0; padding: 0; box-sizing: border-box;}
+
+.root {
+  padding-left: 30px;
+}
+
+.avatar {
+  height: 28px;
+  width: auto;
+  vertical-align: middle;
+  margin: 3px;
+}
+
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
